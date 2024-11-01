@@ -1,0 +1,1 @@
+1. Remove item form cart. click event handle 
